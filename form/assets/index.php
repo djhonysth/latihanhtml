@@ -17,7 +17,7 @@
                     <a class="navbar-brand" href="#">Training Bootstrap</a>
                   </div>
                   <ul class="nav navbar-nav navbar-right">
-                    <li class="active"><a href="home.html">Home</a></li>
+                    <li class="active"><a href="index.html">Home</a></li>
                     <li><a href="profil.html">Profil</a></li>
                     <li><a href="contact.html">Contact</a></li>
                   </ul>
